@@ -5,6 +5,9 @@ import time
 from  drange import *
  
 #dddd dfvsdfvsfgs fsggdf
+#dddd dfvsdfvsfgs fsggdf
+#dddd dfvsdfvsfgs fsggdf
+#dddd dfvsdfvsfgs fsggdf
  
 # Create a black image
 w = 1500
