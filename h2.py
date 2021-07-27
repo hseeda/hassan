@@ -5,8 +5,6 @@ import time
 from  drange import *
  
  
- 
- 
 # Create a black image
 w = 1500
 h = w
