@@ -1,0 +1,20 @@
+enum  	cv::WindowFlags {
+  cv::WINDOW_NORMAL = 0x00000000,
+  cv::WINDOW_AUTOSIZE = 0x00000001,
+  cv::WINDOW_OPENGL = 0x00001000,
+  cv::WINDOW_FULLSCREEN = 1,
+  cv::WINDOW_FREERATIO = 0x00000100,
+  cv::WINDOW_KEEPRATIO = 0x00000000,
+  cv::WINDOW_GUI_EXPANDED =0x00000000,
+  cv::WINDOW_GUI_NORMAL = 0x00000010
+}
+ 	Flags for cv::namedWindow. More...
+ 
+enum  	cv::WindowPropertyFlags {
+  cv::WND_PROP_FULLSCREEN = 0,
+  cv::WND_PROP_AUTOSIZE = 1,
+  cv::WND_PROP_ASPECT_RATIO = 2,
+  cv::WND_PROP_OPENGL = 3,
+  cv::WND_PROP_VISIBLE = 4,
+  cv::WND_PROP_TOPMOST = 5,
+  cv::WND_PROP_VSYNC = 6
