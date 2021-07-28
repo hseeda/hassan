@@ -1,6 +1,7 @@
 import pygame
 import numpy as np
 
+
 col_about_to_die = (200, 200, 225)
 col_alive = (255, 255, 215)
 col_background = (10, 10, 40)
